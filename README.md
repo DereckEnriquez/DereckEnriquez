@@ -38,8 +38,10 @@ Español (nativo) e inglés intermedio.
 
 ## Proyectos destacados 🚀
 
-- **Proyecto 1:** LINK.
-- **Proyecto 2:** LINK.
+- [JuegoPreguntas](https://github.com/DereckEnriquez/JuegoPreguntas)
+- [dashboard](https://github.com/DereckEnriquez/dashboard)
+- [OrganizadorFotos](https://github.com/DereckEnriquez/OrganizadorFotos)
+- [Snake](https://github.com/DereckEnriquez/Taller01-Snake)
 
 ## Actividad o experiencia 💼
 
