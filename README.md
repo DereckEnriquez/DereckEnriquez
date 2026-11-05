@@ -8,31 +8,31 @@ Resido en la ciudad de Guayaquil, Ecuador. Actualmente estudio ingeniería en co
 
 ## Áreas de interés 🎯
 
-- Desarrollo de aplicaciones web y móviles.
-- Inteligencia artificial.
-- UX/UI.
-- Desarrollo de videojuegos.
-- Análisis y gestión de inversiones.
+1. Desarrollo de aplicaciones web y móviles.
+2. Inteligencia artificial.
+3. UX/UI.
+4. Desarrollo de videojuegos.
+5. Análisis y gestión de inversiones.
 
 ## Habilidades y tecnologías 🛠️
 
-### Lenguajes de programación 💻
+### 💻 Lenguajes de programación
 
 Python, Java, JavaScript y TypeScript.
 
-### Frontend y diseño 🎨
+### 🎨 Frontend y diseño
 
 React, MUI, HTML5, CSS y Figma.
 
-### Herramientas ⚙️
+### ⚙️ Herramientas
 
 Git, GitHub y utilitarios.
 
-### Habilidades 🧠
+### 🧠 Habilidades
 
 Trabajo en equipo, aprendizaje rápido y orientación al logro.
 
-### Idiomas 🌐
+### 🌐 Idiomas
 
 Español (nativo) e inglés intermedio.
 
