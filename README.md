@@ -38,10 +38,12 @@ Español (nativo) e inglés intermedio.
 
 ## Proyectos destacados 🚀
 
-- [JuegoPreguntas](https://github.com/DereckEnriquez/JuegoPreguntas)
-- [dashboard](https://github.com/DereckEnriquez/dashboard)
-- [OrganizadorFotos](https://github.com/DereckEnriquez/OrganizadorFotos)
-- [Snake](https://github.com/DereckEnriquez/Taller01-Snake)
+| Enlace | Lenguaje/Herramienta | Descripción |
+| --- | --- | --- |
+| [JuegoPreguntas](https://github.com/DereckEnriquez/JuegoPreguntas) | Java | Juego para adivinar un animal mediante preguntas de “sí o no”. Utiliza árboles que se cargan con información desde archivos seleccionados mediante FileChooser y JavaFX para construir la interfaz. |
+| [dashboard](https://github.com/DereckEnriquez/dashboard) | TypeScript, JavaScript, HTML y CSS | Prototipo de dashboard del clima con alertas e indicadores. Utiliza React para organizar la interfaz mientras que MUI aporta componentes como Grid, Alert y Typography, luego Vite gestiona el servidor de desarrollo y la compilación. |
+| [OrganizadorFotos](https://github.com/DereckEnriquez/OrganizadorFotos) | Java | Aplicación para organizar álbumes de fotos y realizar búsquedas. Utiliza una lista doblemente enlazada circular para organizar los elementos que se muestran en la interfaz mediante JavaFX y FXML. |
+| [Snake](https://github.com/DereckEnriquez/Taller01-Snake) | Java, HTML y CSS | Juego de la serpiente que crece al comer y pierde al chocar. Java Swing/AWT crea la ventana y recibe las entradas del teclado, HTML y CSS forman parte de la documentación generada mediante el uso de Git para el control de versiones colaborativo. |
 
 ## Actividad o experiencia 💼
 
