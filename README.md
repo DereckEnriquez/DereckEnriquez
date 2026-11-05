@@ -2,11 +2,11 @@
 
 ![Banner de presentación de Dereck Enríquez](Recursos/Imagenes/banner1.png)
 
-## Sobre mí
+## Sobre mí 👨‍💻
 
 Resido en la ciudad de Guayaquil, Ecuador. Actualmente estudio ingeniería en computación y cuento con experiencia de cuatro años en el sector bancario. Me apasiona construir soluciones tecnológicas eficientes, invertir en la bolsa de valores y mantener la mente activa con el ajedrez, videojuegos y aprendiendo a jugar tenis de mesa.
 
-## Áreas de interés
+## Áreas de interés 🎯
 
 - Desarrollo de aplicaciones web y móviles.
 - Inteligencia artificial.
@@ -14,40 +14,40 @@ Resido en la ciudad de Guayaquil, Ecuador. Actualmente estudio ingeniería en co
 - Desarrollo de videojuegos.
 - Análisis y gestión de inversiones.
 
-## Habilidades y tecnologías
+## Habilidades y tecnologías 🛠️
 
-### Lenguajes de programación
+### Lenguajes de programación 💻
 
 Python, Java, JavaScript y TypeScript.
 
-### Frontend y diseño
+### Frontend y diseño 🎨
 
 React, MUI, HTML5, CSS y Figma.
 
-### Herramientas
+### Herramientas ⚙️
 
 Git, GitHub y utilitarios.
 
-### Habilidades blandas
+### Habilidades 🧠
 
 Trabajo en equipo, aprendizaje rápido y orientación al logro.
 
-### Idiomas
+### Idiomas 🌐
 
 Español (nativo) e inglés intermedio.
 
-## Proyectos destacados
+## Proyectos destacados 🚀
 
 - **Proyecto 1:** LINK.
 - **Proyecto 2:** LINK.
 
-## Actividad o experiencia
+## Actividad o experiencia 💼
 
 - Cuatro años de experiencia en una entidad bancaria, como pasante, asistente y asesor comercial.
 - Pasantía en ESPOL como administrador de bases de datos.
 - Pasantía en HIVIMAR S.A., en el área de sistemas.
 
-## Contacto
+## Contacto 📫
 
 - Correo: [dereckenriquez@gmail.com](mailto:dereckenriquez@gmail.com)
 - LinkedIn: [linkedin.com/in/dereckenriquez](https://www.linkedin.com/in/dereckenriquez/)
